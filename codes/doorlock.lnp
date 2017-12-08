@@ -1,0 +1,3 @@
+".\Objects\PROJECT.obj" 
+TO ".\Objects\doorlock" 
+PRINT(".\Listings\doorlock.m51")

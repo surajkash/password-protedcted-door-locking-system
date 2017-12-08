@@ -1,0 +1,3 @@
+".\Objects\ghissuproject.obj" 
+TO ".\Objects\doorlocking system" 
+PRINT(".\Listings\doorlocking system.m51")
